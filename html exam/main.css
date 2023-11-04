@@ -1,0 +1,62 @@
+body {
+    background-image: linear-gradient(to right, #b2147e, #0083b0);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+background-image: url('/images/OIP.jpeg'); /* Replace 'path-to-your-image.jpg' with the actual path to your image */
+background-size: cover; /* Adjust as needed */
+background-position: center; /* Center the image horizontally and vertically */
+color: #fff;
+padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #f54607;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.about-section {
+    text-align: center;
+}
+
+.about-section img {
+    max-width: 200px;
+}
+
+.audio-section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+audio {
+    width: 100%;
+}
+.vimu{
+    text-align: center;
+}
